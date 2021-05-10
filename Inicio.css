@@ -119,6 +119,12 @@
 }
 
 @media (max-width: 575px) {
+  .spc {
+    font-size: 127% !important;
+    font-weight: 900;
+    margin-left: 2% !important;
+    margin-top: -11% !important;
+  }
   .u-section-1 .u-sheet-1 {
     min-height: 785px;
   }
